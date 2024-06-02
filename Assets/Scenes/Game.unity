@@ -5633,7 +5633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 294920578}
   angle: -70
-  distance: 2
+  distance: 2.5
   offset: {x: 0, y: 1.8, z: 0}
   travelTime: 0
 --- !u!1 &1308445111 stripped
